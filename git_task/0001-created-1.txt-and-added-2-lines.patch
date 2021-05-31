@@ -1,0 +1,21 @@
+From 80b4751fb2f38b61a0561568bdfbef5c521e5053 Mon Sep 17 00:00:00 2001
+From: Kosikov Nikita <green.marker2@mail.ru>
+Date: Mon, 31 May 2021 15:06:51 +0300
+Subject: [PATCH] created 1.txt and added 2 lines
+
+---
+ 1.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 1.txt
+
+diff --git a/1.txt b/1.txt
+new file mode 100644
+index 0000000..73053d3
+--- /dev/null
++++ b/1.txt
+@@ -0,0 +1,2 @@
++10
++9
+-- 
+2.30.1.windows.1
+
